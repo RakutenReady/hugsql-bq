@@ -2,6 +2,8 @@
 
 A HugSQL adapter for BigQuery.
 
+[![Clojars Project](https://img.shields.io/clojars/v/hugsql-bq.svg)](https://clojars.org/hugsql-bq)
+
 ## Usage
 
 First things first - make sure to have your `GOOGLE_APPLICATION_CREDENTIALS` & `GOOGLE_CLOUD_PROJECT` environment variables set.
