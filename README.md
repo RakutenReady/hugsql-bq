@@ -83,7 +83,3 @@ Few things to note:
 Currently `GEOGRAPHY` is not supported
 
 Check `hugsql-bq-test` namespace for a detailed example of how to use this adapter.
-
-### Releasing to Artifactory
-
-Release are automated via a [jenkins job](https://jk.rakutenready.com/view/Folders/job/Jobs/job/AD/job/hugsql-bq%20library%20release/)
